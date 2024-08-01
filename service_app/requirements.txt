@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+pandas
+scikit-learn
+gTTS
+SpeechRecognition
+sentence_transformers
+fuzzywuzzy
+opencv-python
+pygame
+playsound
